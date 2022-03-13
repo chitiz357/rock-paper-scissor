@@ -1,1 +1,1 @@
-wed: npm start
+wed: npm bluid
