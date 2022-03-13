@@ -1,1 +1,1 @@
-wed: npm run dev
+wed: npm start
